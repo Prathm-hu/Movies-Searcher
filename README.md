@@ -40,5 +40,5 @@ Welcome to **Movie Searcher**, the ultimate destination to find and explore **ev
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/movie-searcher.git
+git clone https://github.com/Prathm-hu/movie-searcher.git
 cd movie-searcher
