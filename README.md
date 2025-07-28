@@ -21,7 +21,7 @@ Welcome to **Movie Searcher**, the ultimate destination to find and explore **ev
 
 | Search View | Movie Results |
 |-------------|----------------|
-| ![Search](https://i.imgur.com/NqNTYZz.png) | ![Results](https://i.imgur.com/Ld3U7Y9.png) |
+| ![Search](./src/assets/image.png) | ![Results](./src/assets/image2.png) |
 
 > *(Replace with your own screenshots if available for better showcase)*
 
