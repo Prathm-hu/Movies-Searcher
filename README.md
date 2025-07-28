@@ -30,7 +30,7 @@ Welcome to **Movie Searcher**, the ultimate destination to find and explore **ev
 ## 🚀 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (React)
-- **API**: [OMDb API](http://www.omdbapi.com/) or similar movie database
+- **API**: [TMDB API](https://www.themoviedb.org/) or similar movie database
 - **Deployment**: Vercel
 
 ---
